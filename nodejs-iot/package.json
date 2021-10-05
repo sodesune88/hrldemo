@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-docs-samples-iot-http-example",
+  "version": "0.0.1",
+  "description": "HTTP Example for Google Cloud IoT Core using NodeJS.",
+  "license": "Apache-2.0",
+  "author": "Google Inc.",
+  "main": "cloudiot_http_example_nodejs.js",
+  "files": [
+    "*.js"
+  ],
+  "dependencies": {
+    "gaxios": "^4.0.0",
+    "jsonwebtoken": "^8.5.0",
+    "yargs": "^16.0.0"
+  }
+}
